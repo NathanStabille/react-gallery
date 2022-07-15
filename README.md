@@ -1,11 +1,11 @@
 # Gallery of Photos
 ### About
 
-Simple photo gallery connected with firebase storage.
+Simple photo gallery powered by firebase storage.
 
 
 <br>
-<br>
+
 
 
 
@@ -16,8 +16,8 @@ Simple photo gallery connected with firebase storage.
 
 <br>
 <div style= "display: flex">
-<img style="border: solid 1px; margin: 3px;" width="500px" src="./public/github/gallery.jpg">
-<img style="border: solid 1px #fff; margin: 3px;" width="500px" src="./public/github/gallery2.jpg">
+<img style="border: solid 1px; margin: 3px;" src="./public/github/gallery.jpg">
+<img style="border: solid 1px #fff; margin: 3px;" src="./public/github/gallery2.jpg">
 
 </div>
 <br>
